@@ -1,12 +1,13 @@
 # 🏢 1Clik HR Management System
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge&logo=vercel)](https://1clik.vercel.app/login)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-> A powerful, full-stack HR management ecosystem designed for modern teams. Streamline directory management, attendance tracking, and leave workflows with a sleek, glassmorphic UI.
+> **Live Demo:** [https://1clik.vercel.app/login](https://1clik.vercel.app/login)
+
+A powerful, full-stack HR management ecosystem designed for modern teams. Streamline directory management, attendance tracking, and leave workflows with a sleek, glassmorphic UI.
 
 ---
 
